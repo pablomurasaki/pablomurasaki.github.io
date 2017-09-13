@@ -4,6 +4,7 @@
 ![~,~](https://avatars3.githubusercontent.com/u/241176?v=3&s=460)
 
 ## contributed projects:
+[singularity](https://comics.17thdimension.com/)
 [numundo](https://www.numundo.org/)
 [yellowseed](https://yellow-seed.org)
 [songaday](https://sadfam.com)
