@@ -1,5 +1,3 @@
-# A gallery of my works
-
 ![~,~](https://avatars3.githubusercontent.com/u/241176?v=3&s=460)
 
 ## contributed projects:
